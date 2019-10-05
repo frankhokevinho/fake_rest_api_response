@@ -3,7 +3,7 @@
     "today": 2200,
     "yesterday": 1640,
     "day_before_yesteday": 3200,
-    "last_month":[
+    "last_months":[
       {"Janvier", 4200},
       {"Février", 6500},
       {"Mars", 5400},
