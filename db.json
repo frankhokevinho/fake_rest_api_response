@@ -1,0 +1,21 @@
+{
+  "home":{
+    "today": 2200,
+    "yesterday": 1640,
+    "day_before_yesteday": 3200,
+    "last_month":[
+      {"Janvier", 4200},
+      {"Février", 6500},
+      {"Mars", 5400},
+      {"Avril", 5300},
+      {"Mai", 9640},
+      {"Juin", 2600},
+      {"Juillet", 1600},
+      {"Août", 8600},
+      {"Septembre", 5600},
+      {"Octobre", 6600},
+      {"Novembre", 5500},
+      {"Decembre", 7650}
+    ]
+  }
+}
